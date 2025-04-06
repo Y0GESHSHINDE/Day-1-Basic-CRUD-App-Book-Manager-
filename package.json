@@ -1,0 +1,21 @@
+{
+  "name": "day-1-basic-crud-app-book-manager-",
+  "version": "1.0.0",
+  "description": "Day 1: Basic CRUD App – \"Book Manager\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
